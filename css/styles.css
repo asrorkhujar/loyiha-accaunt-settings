@@ -145,7 +145,7 @@ img {
   color: var(--text-lightgrey);
   text-transform: uppercase;
   margin-top: 20px;
-  margin-bottom: 0;
+  margin-bottom: 10px;
 
 
 }
@@ -157,8 +157,8 @@ img {
   border: none;
   margin: 0;
   border-bottom: 2px solid var(--text-lightgrey);
-  /* padding-top: 5px; */
-  /* padding-bottom: 5px; */
+  padding-top: 5px;
+  padding-bottom: 5px;
   color: var(--text-black);
   outline: none;
 }
