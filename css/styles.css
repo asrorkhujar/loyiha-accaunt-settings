@@ -138,7 +138,7 @@ img {
 }
 
 .input-items{
-  /* display: inline-block; */
+  display:block;
   width: 100%;
   font-size: 12px;
   font-weight: 700;
@@ -146,6 +146,7 @@ img {
   text-transform: uppercase;
   margin-top: 20px;
   margin-bottom: 5px;
+
 
 }
 .field{
@@ -158,6 +159,7 @@ img {
   padding-top: 5px;
   padding-bottom: 5px;
   color: var(--text-black);
+  outline: none;
 }
 
 .buttons{
@@ -184,4 +186,3 @@ img {
 .button ~ .button{
   margin-left: 20px;
 }
-
